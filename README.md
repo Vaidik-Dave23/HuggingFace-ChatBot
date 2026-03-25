@@ -14,8 +14,15 @@ A conversational AI chatbot built using Hugging Face Transformers.
 - PyTorch
 - DialoGPT
 
-## Setup
+## Example Conversation
 
+You: Hello bro  
+Bot: Hey, how's it going?
+
+You: I want to improve my fitness  
+Bot: That's great! Staying consistent with workouts and diet helps.
+
+## Setup
 ```bash
 pip install -r requirements.txt
 python chatbot.py
