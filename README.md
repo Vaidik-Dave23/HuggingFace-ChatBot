@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot (DialoGPT)
+# 🤖 LLM Chatbot with Memory (DialoGPT)
 
 A conversational AI chatbot built using Hugging Face Transformers.
 
