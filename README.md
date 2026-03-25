@@ -7,6 +7,13 @@ A conversational AI chatbot built using Hugging Face Transformers.
 - Context-aware responses
 - Uses Microsoft DialoGPT
 
+## Tech Stack
+
+- Python
+- Hugging Face Transformers
+- PyTorch
+- DialoGPT
+
 ## Setup
 
 ```bash
